@@ -1,0 +1,20 @@
+<package>
+  <name>mp3_rrt</name>
+  <version>0.0.1</version>
+  <description>
+     Motion Planning Homework 3
+  </description>
+  <maintainer email="nbanerjee@wpi.edu">Nandan Banerjee</maintainer>
+  <license>BSD</license>
+  <url>www.nandanbanerjee.com</url>
+  <build_depend>roscpp</build_depend>
+  <build_depend>rospy</build_depend>
+  <build_depend>OpenRAVE</build_depend>
+
+  <run_depend>roscpp</run_depend>
+  <run_depend>rospy</run_depend>
+  <run_depend>OpenRAVE</run_depend>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
+
